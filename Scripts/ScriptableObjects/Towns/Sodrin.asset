@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fec74ed8e8399d4d9961d9c5b1b173f, type: 3}
+  m_Name: Sodrin
+  m_EditorClassIdentifier: 
+  _townName: Sodrin
+  _businessName: Sawmill
+  _rawName: Forest
+  _typeRaw: Wood
+  _typeProduct: Planks
+  _rawSpriteImage: {fileID: 0}
+  _businessSprite: {fileID: -7095156346419307698, guid: 27605e57f0cfddf4595dd577e55eeb0c,
+    type: 3}
+  _rawSprite: {fileID: -6585341271661167497, guid: 27605e57f0cfddf4595dd577e55eeb0c,
+    type: 3}
+  _maxStorageProduct: 1000
+  _maxStorageRaw: 2000
+  _maxStorageProductNew:
+  - 1000
+  - 1200
+  - 1500
+  - 1700
+  - 2000
+  _maxStorageRawNew:
+  - 2000
+  - 2200
+  - 2500
+  - 2700
+  - 3000
+  _upgradeCost:
+  - 500
+  - 1000
+  - 1500
+  - 2000
+  _isUpgradeTicket: 00000000
+  _rawToProduct: 26
+  _productFromRaw: 12
+  _multiplier: 2
+  _timeForProduct: 8
+  _newProductFromRaw:
+  - 18
+  - 26
+  - 34
+  - 46
+  - 58
+  _newRawToProduct:
+  - 36
+  - 50
+  - 62
+  - 84
+  - 92
+  _newTimeForProduct:
+  - 7
+  - 6
+  - 5
+  - 4
+  - 3
+  _timeForPeople: 10
+  _timeForPeopleNext:
+  - 10
+  - 9
+  - 7
+  - 5
+  - 4
+  _maxPeopleNext:
+  - 800
+  - 1200
+  - 1500
+  - 2100
+  - 2500
+  _maxPeople: 800
+  _peopleForTime: 70
+  _peopleForTimeNext:
+  - 70
+  - 100
+  - 120
+  - 150
+  - 150
+  _peopleToRaw: 0
+  _newPeopleToRaw: []
+  _timeForRaw: 0
+  _newTimeForRaw: []
+  _rawFromPeople: 0
+  _newRawFromPeople: []
+  _resourceToRaw: {fileID: 0}
+  _lvlOpenSecondStorage: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 386724cb199c645479276974a6b0661b, type: 3}
+  m_Name: 6Lvl_3Task
+  m_EditorClassIdentifier: 
+  _type: MeatTrainFranta
+  _count: 1000
+  _nameTask: Transportation
+  _info: TransportXMeatToFranta
+  _price: 3000
+  _isTicket: 0
+  _isGeneral: 1
+  _spriteTask: {fileID: -4468474015220319588, guid: 27605e57f0cfddf4595dd577e55eeb0c,
+    type: 3}

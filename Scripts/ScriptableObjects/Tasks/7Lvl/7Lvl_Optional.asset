@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 386724cb199c645479276974a6b0661b, type: 3}
+  m_Name: 7Lvl_Optional
+  m_EditorClassIdentifier: 
+  _type: MoneyEarn
+  _count: 200000
+  _nameTask: Earn
+  _info: EarnX
+  _price: 200
+  _isTicket: 1
+  _isGeneral: 0
+  _spriteTask: {fileID: -7809510654926343880, guid: d047e2fa54db2734c8bf4a7725055c7a,
+    type: 3}

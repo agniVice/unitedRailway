@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d142cd9df15b59743801bc147a149388, type: 3}
+  m_Name: Train6
+  m_EditorClassIdentifier: 
+  _trainName: ANT-408
+  _maxSpeed: 50
+  _spriteTrain: {fileID: 2919724047966874093, guid: d4e4340c52dd71643aa6db988274018c,
+    type: 3}
+  _priceTrain: 350
+  _maxHealth: 140
+  _typeTrain: Universal
+  _chanceBroke: 0
+  _loadingSpeed: 1
+  _isTicketCost: 1
+  _trainInfo: 
